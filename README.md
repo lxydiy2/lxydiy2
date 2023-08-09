@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently working on ESP32 Embedded system.
+🌱 I’m currently learning Arduino and STM32
+
 <!--
 **lxydiy2/lxydiy2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
